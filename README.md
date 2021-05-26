@@ -1,7 +1,7 @@
 #### Hi, this is Alexey
-![I am GitHub Readme Generator's creator](https://github.com/arowent/arowent/blob/main/assets/14092_cut-photo.ru.png)
+![Hi, this is Alexey](https://github.com/arowent/arowent/blob/main/assets/14092_cut-photo.ru.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I'm a Python developer. I really like the Backend, I want to understand the whole technical side.
 
 Skills: Python / Django / HTML / CSS
 
