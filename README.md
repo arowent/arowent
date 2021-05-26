@@ -5,10 +5,7 @@ I'm a Python developer. I really like the Backend, I want to understand the whol
 
 Skills: Python / Django / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arowent)  
+- 🔭 I’m currently working on this page.   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arowent)](https://github.com/anuraghazra/github-readme-stats)
 
