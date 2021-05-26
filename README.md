@@ -1,4 +1,4 @@
-#### I am GitHub Readme Generator's creator
+#### Hi, this is Alexey
 ![I am GitHub Readme Generator's creator](https://github.com/arowent/arowent/blob/main/assets/14092_cut-photo.ru.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
