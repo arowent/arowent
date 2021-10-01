@@ -1,5 +1,5 @@
 #### Hi, this is Alexey
-![Hi, this is Alexey](https://github.com/arowent/arowent/blob/main/assets/14092_cut-photo.ru.png)
+![Hi, this is Alexey]
 
 I'm a Python developer. I really like the Backend, I want to understand the whole technical side.
 
