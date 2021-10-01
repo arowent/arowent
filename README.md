@@ -1,5 +1,4 @@
 #### Hi, this is Alexey
-![Hi, this is Alexey]
 
 I'm a Python developer. I really like the Backend, I want to understand the whole technical side.
 
