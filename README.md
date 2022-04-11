@@ -2,8 +2,6 @@
 
 I'm a Python developer. I really like the Backend, I want to understand the whole technical side.
 
-Skills: Python / Django / HTML / CSS
-
 - 🔭 I’m currently working on this page.   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arowent)](https://github.com/anuraghazra/github-readme-stats)
